@@ -1,3 +1,6 @@
 [submodule "saga-thor"]
 	path = saga-thor
 	url = https://github.com/nic-mic/saga-thor
+[submodule "eletrica-spider"]
+	path = eletrica-spider
+	url = https://github.com/nic-mic/eletrica-spider
